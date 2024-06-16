@@ -197,7 +197,7 @@ function App(){
       </form>
     </section>
 
-    <footer className='footer'>
+    {/* <footer className='footer'>
       <div className='footer-social'>
         <a href='#' className='group'><FaFacebookF className='text-[1.5vw] text-[#00ffee] group-hover:text-[white]'/></a>
         <a href='#' className='group ml-[3vw]'><FaTwitter className='text-[1.5vw] text-[#00ffee] group-hover:text-[white]'/></a>
@@ -211,7 +211,8 @@ function App(){
         <li><a href='#'>Contact</a></li>
         <li><a href='#'>Education</a></li>
       </ul>
-    </footer>
+      <p className=''></p>
+    </footer> */}
     </>
   );
 }
